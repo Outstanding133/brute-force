@@ -9,5 +9,5 @@ A simple console-based simulator to demonstrate brute-force login protection.
 - Allows up to 3 incorrect login attempts
 - Locks out after failed attempts
 - Pure Python script, no external libraries
-![BRUTE FORCE](IMAGE)
+![BRUTE FORCE](IMAGE/Screenshot 2025-07-20 011126.png)
 
