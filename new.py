@@ -14,7 +14,7 @@ class LoginBruteForceSimulator(tk.Tk):
         self.correct_username = "admin"
         self.correct_password = "password123"
         self.failed_attempts = 0
-        self.lockout_time = 60  # Lockout duration in seconds
+        self.lockout_time = 60 
         self.is_locked = False
 
         self.create_widgets()
